@@ -1,6 +1,6 @@
 # MIKUEC Virtual 2021
 
-[配布ページ](https://github.com/MIKUEC2020/MikuecVirtual2021/releases/download/v0.1.0/MikuecVirtual2021.zip)より`MikuecVirtual2021.zip`をダウンロードし、zipファイルを解凍した後`MikuecVirtual.exe`をダブルクリックで起動してください。  
+[配布ページ](https://github.com/MIKUEC2020/MikuecVirtual2021/releases/download/v0.1.1/MikuecVirtual2021.zip)より`MikuecVirtual2021.zip`をダウンロードし、zipファイルを解凍した後`MikuecVirtual.exe`をダブルクリックで起動してください。  
 
 
   
